@@ -1,0 +1,10 @@
+recipes:
+    global:
+    mac_os_x:
+        - applications::omnigraffle
+        - applications::launchrocket
+        - osxdefaults::dock_position_the_dock_on_the_left_side
+attributes:
+    homebrewalt:
+        cask_apps:
+            - free-ruler
